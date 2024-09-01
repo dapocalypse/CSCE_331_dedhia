@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(grey, white);
+    background-attachment: fixed;
+}
+
+.main_text {
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+}
+
+.navigation {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
