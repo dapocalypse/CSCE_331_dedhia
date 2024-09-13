@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    background-attachment: fixed;
+}
+
+.main_text {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    color: wheat;
+    font-family: "Source Code Pro", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.navigation {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    color: wheat;
+    font-family: "Source Code Pro", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.red { color: #FF4136; }  /* bright red */
+        .blue { color: #0074D9; } /* blue */
+        .green { color: #2ECC40; } /* green */
+        .yellow { color: #FFDC00; } /* yellow */
+        .gray { color: #AAAAAA; }   /* light gray */
