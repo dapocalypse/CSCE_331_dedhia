@@ -15,3 +15,9 @@ body {
     width: 80%;
     padding: 10px;
 }
+
+.red { color: #FF4136; }  /* bright red */
+        .blue { color: #0074D9; } /* blue */
+        .green { color: #2ECC40; } /* green */
+        .yellow { color: #FFDC00; } /* yellow */
+        .gray { color: #AAAAAA; }   /* light gray */
